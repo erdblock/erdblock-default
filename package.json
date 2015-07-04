@@ -1,0 +1,10 @@
+{
+	"name": "erdblock-default",
+	"version": "0.0.0",
+	"description": "",
+	"private": true,
+	"dependencies": {
+		"jade": "x",
+		"is_js": "x"
+	}
+}
